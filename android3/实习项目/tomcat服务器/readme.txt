@@ -1,1 +1,0 @@
-将info.json，news.apk放到tomcat中
