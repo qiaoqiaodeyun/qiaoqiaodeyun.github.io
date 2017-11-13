@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="webswever"
+  id="myeclipse.1468234298379"
+  context-root="/web"
+  j2ee-spec="5.0"
+  archive="webswever.war">
+  <attributes>
+    <attribute name="webrootdir" value="WebRoot" />
+  </attributes>
+</project-module>
+
